@@ -1,0 +1,5 @@
+let Kristen = {
+    Name: Kristen Wegner
+    Age: 28
+    Favorite Color: Purple
+}
