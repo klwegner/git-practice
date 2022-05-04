@@ -3,3 +3,4 @@ let Kristen = {
     Age: 28
     Favorite Color: Purple
 }
+let no;
